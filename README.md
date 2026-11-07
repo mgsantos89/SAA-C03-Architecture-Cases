@@ -71,7 +71,7 @@ Cada `README.md` de case contém:
 
 | # | Case | Domínio | Status |
 |---|---|---|---|
-| 01 | _Em breve_ | ☁️ Infraestrutura & Networking | 🔜 |
+| 01 | [O servidor que "sumiu" toda manhã](001%20-%20%20O%20Servidor%20que%20sumia%20toda%20manha/README.MD) | ☁️ Infraestrutura & Networking | ✅ |
 | 02 | _Em breve_ | 🔐 Segurança & IAM | 🔜 |
 | 03 | _Em breve_ | 🏗️ Alta Disponibilidade | 🔜 |
 | 04 | _Em breve_ | 📈 Escalabilidade & Performance | 🔜 |
