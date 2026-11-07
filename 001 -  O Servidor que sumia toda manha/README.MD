@@ -5,7 +5,7 @@ Módulo: EC2 Networking & IP Addressing
 
 ## Situação-problema
 
-A **LogiFrota** (empresa fictícia) mantém um servidor de homologação em EC2 que recebe webhooks de um parceiro de pagamentos. No painel do parceiro, o endpoint de destino foi cadastrado usando **o IP público da instância**.
+A **Acme Digital** (empresa fictícia) mantém um servidor de homologação em EC2 que recebe webhooks de um parceiro de pagamentos. No painel do parceiro, o endpoint de destino foi cadastrado usando **o IP público da instância**.
 
 Para economizar, o servidor é **parado toda noite e ligado de manhã**. Desde então, chegam três reclamações:
 
@@ -73,7 +73,7 @@ Condições que precisam ser cumpridas e validadas, organizadas nas fases do ate
 
 ### Fase 6 — Recomendação de arquitetura
 
-- [ ] Responder por escrito (2–3 linhas): por que o Elastic IP é considerado má prática como solução definitiva e qual alternativa você recomendaria à LogiFrota para este servidor.
+- [ ] Responder por escrito (2–3 linhas): por que o Elastic IP é considerado má prática como solução definitiva e qual alternativa você recomendaria à Acme Digital para este servidor.
 
 ## Critérios de aceite
 
