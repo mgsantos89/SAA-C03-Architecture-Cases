@@ -40,8 +40,8 @@ Condições que precisam ser cumpridas e validadas, organizadas nas fases do ate
 
 ### Fase 1 — Montar o ambiente
 
-- [ ] Lançar 1 instância `case01-srv` em sub-rede pública, com **Auto-assign public IP = Enable**.
-- [ ] Security Group `case01-sg` liberando **SSH (22)** apenas para `<SEU_IP>/32` (nunca `0.0.0.0/0`).
+- [] Lançar 1 instância `case001-srv` em sub-rede pública, com **Auto-assign public IP = Enable**.
+- [] Security Group `case001-sg` liberando **SSH (22)** apenas para `<SEU_IP>/32` (nunca `0.0.0.0/0`).
 - [ ] Registrar na tabela de evidências: IP público, IP privado e **Private IPv4 DNS** logo após o lançamento.
 - [ ] Identificar a qual faixa RFC 1918 pertence o IP privado (`10.0.0.0/8`, `172.16.0.0/12` ou `192.168.0.0/16`).
 
