@@ -72,8 +72,8 @@ Cada `README.md` de case contém:
 | # | Case | Domínio | Status |
 |---|---|---|---|
 | 01 | [O servidor que "sumiu" toda manhã](001%20-%20%20O%20Servidor%20que%20sumia%20toda%20manha/README.MD) | ☁️ Infraestrutura & Networking | ✅ |
-| 02 | _Em breve_ | 🔐 Segurança & IAM | 🔜 |
-| 03 | _Em breve_ | 🏗️ Alta Disponibilidade | 🔜 |
+| 02 | [Desempenho, isolamento ou escala?](002%20-%20Desempenho,%20isolamento%20ou%20escala/README.MD) | ☁️ Infraestrutura & EC2 | ✅ |
+| 03 | [O IP é da placa e não do servidor](003%20-%20O%20IP%20e%20da%20placa%20e%20nao%20do%20servidor/README.MD) | 🏗️ Alta Disponibilidade | 🚧 |
 | 04 | _Em breve_ | 📈 Escalabilidade & Performance | 🔜 |
 | 05 | _Em breve_ | 💰 FinOps | 🔜 |
 | 06 | _Em breve_ | 🔄 Backup & DR | 🔜 |
